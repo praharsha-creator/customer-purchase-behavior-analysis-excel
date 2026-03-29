@@ -1,0 +1,4 @@
+- Devoloped an interactive Excel dashboard to analyze customer purchasing behaviour
+- Identified high-performing regions and customer segments
+- Generated insights on customer loyalty, spending patterns, and revenue trends
+- Provided data-driven recommendations to improve business performance
